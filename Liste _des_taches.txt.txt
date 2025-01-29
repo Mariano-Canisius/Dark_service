@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Poule un
 Poule deux
 poule trois
+=======
+Poule zero
+Poule un
+Poule trois
+>>>>>>> e0e973aefde86471c30cfd4ea5f8efc69f644946
